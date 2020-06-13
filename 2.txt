@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 sdsadsad
+=======
+234
+sdsdsdsad 
+git
+>>>>>>> 706d572ca38584b2273000a11dfe4f375300f72a
